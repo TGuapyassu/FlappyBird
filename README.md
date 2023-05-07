@@ -1,5 +1,7 @@
 # Clone do Jogo Flappy Bird com inteligencia artificial.
 
+![preview](./imgs/game.png)
+
 ## 🛠 Tecnologias utilizadas:
 
 * [Python](https://www.python.org/): linguagem de programação
